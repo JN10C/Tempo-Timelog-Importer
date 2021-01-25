@@ -25,7 +25,7 @@ Installing and running the script
   
   The date must be provided in a format that is starting with: YYYY-MM-DD ...
   
- Uncomment (remove the /* */ characters) the "Prompt for debug in the spreadsheet" section and comment out (add // in front) the callTempo function to verify that proper data is being mapped 
+ Uncomment (remove the /* */ characters) the "Prompt for debug in the spreadsheet" section and comment out (add // in front) the callTempo function to verify that proper data is being mapped. The debug function will create prompt for each row of data so use small datasets for testing
  
  
     //callTempo(key, time, date, description, author)
